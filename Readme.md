@@ -64,7 +64,9 @@ Backend: Flask, Hugging Face Transformers, PyTorch
 Frontend: HTML, CSS, JavaScript (Fetch API)
 ML Model: Code-Generation Model (e.g., bigcode/starcoder)
 # 🛠️ Troubleshooting
+
 Common Issues & Fixes
+
 ❌ ModuleNotFoundError: No module named 'flask'
 ✅ Run: pip install flask
 
