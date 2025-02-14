@@ -34,17 +34,17 @@ This project is a **Flask-based Code Generator** that uses **Deep Learning (DL) 
 ```bash
 git clone https://github.com/your-repo/code-generator.git
 cd code-generator
+```
 2️⃣ Create a Virtual Environment (Optional)
-
+```bash
 python -m venv venv
 source venv/bin/activate  # macOS/Linux
 venv\Scripts\activate     # Windows
+```bash
 3️⃣ Install Dependencies
+```
 pip install -r requirements.txt
 4️⃣ Run Flask App
-bash
-Copy
-Edit
 python app.py
 5️⃣ Open in Browser
 Visit: http://127.0.0.1:5000/
