@@ -11,7 +11,7 @@ This project is a **Flask-based Code Generator** that uses **Deep Learning (DL) 
 - ✅ Cross-Origin support (CORS enabled) for easy integration.
 
 ---
-
+```
 ## 📂 Project Structure
 /code-generator 
 │── /static 
@@ -22,8 +22,7 @@ This project is a **Flask-based Code Generator** that uses **Deep Learning (DL) 
 │── app.py # Main Flask application 
 │── requirements.txt # Python dependencies 
 │── README.md # Project documentation
-
-
+```
 
 
 ---
