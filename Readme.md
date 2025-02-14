@@ -71,9 +71,10 @@ Common Issues & Fixes
 
 ❌ CORS error in browser console
 ✅ Ensure flask-cors is installed and added to app.py:
-
+```
 from flask_cors import CORS
 CORS(app)
+```
 # 🤝 Contributing
 Feel free to open an issue or submit a pull request if you have improvements!
 
