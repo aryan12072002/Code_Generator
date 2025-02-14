@@ -1,0 +1,6 @@
+Flask
+flask-cors
+torch
+transformers
+accelerate
+numpy
